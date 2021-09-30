@@ -187,6 +187,15 @@
         "platform": "YouTube",
         "duration": "0:24:00",
         "youtubeLink": "https://youtu.be/GTWrWM1UsnA"
+    },
+    
+    {
+        "id": 22,
+        "projectName": "How To Make Website Using HTML & CSS ",
+        "languages": "CSS & HTML",
+        "platform":"YouTube",
+        "duration": "1:11:58",
+        "youtubeLink": "https://www.youtube.com/watch?v=oYRda7UtuhA"
     }
 
 ]
